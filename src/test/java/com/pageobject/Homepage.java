@@ -12,4 +12,9 @@ public void method () {
 System.out.println("method home");
 }
 
+public void homecheck() {
+System.out.println("homecheck test");
+
+}
+
 }
