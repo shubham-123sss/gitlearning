@@ -16,5 +16,9 @@ public void homecheck() {
 System.out.println("homecheck test");
 
 }
+public void homeadd() {
+
+System.out.println("add home test");
+}
 
 }
