@@ -21,4 +21,7 @@ public void homeadd() {
 System.out.println("add home test");
 }
 
+public void test() {
+System.out.println("method");
+}
 }
